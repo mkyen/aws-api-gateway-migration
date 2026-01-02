@@ -4,7 +4,11 @@ A serverless API built on AWS that creates photo grids from uploaded images usin
 
 ## 🏗️ Architecture Overview
 
+![API Gateway flow](apigw.gif)
+
 ```
+
+
 User Upload → API Gateway → Lambda (add_image) → S3 (source-bucket)
                                                  ↓
                                               DynamoDB (GridBuilder)
