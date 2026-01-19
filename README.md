@@ -674,6 +674,5 @@ Contributions welcome! Please open an issue or submit a pull request.
 - [Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 - [Pillow Documentation](https://pillow.readthedocs.io/)
 
----
 
-**Built with ❤️ using AWS Serverless**
+
